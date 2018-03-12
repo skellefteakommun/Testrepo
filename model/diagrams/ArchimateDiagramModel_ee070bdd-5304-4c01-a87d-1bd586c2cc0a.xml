@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategi"
+    id="ee070bdd-5304-4c01-a87d-1bd586c2cc0a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6563faf1-0feb-4911-80c4-7ab6e8827744">
+    <bounds
+        x="228"
+        y="183"
+        width="145"
+        height="58"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_2e7901a3-f5a5-49b6-a94c-4b0aa441ecee.xml#2e7901a3-f5a5-49b6-a94c-4b0aa441ecee"/>
+  </children>
+</archimate:ArchimateDiagramModel>
