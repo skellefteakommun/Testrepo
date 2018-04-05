@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Teis"
+    id="3d60b58d-3608-431d-ae51-41333305f7d2">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ddc7cfb9-f24c-41dc-91f4-fa4047efef85">
+    <bounds
+        x="264"
+        y="273"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_c082a5ab-6f12-444b-bfe2-ff231fa54da2.xml#c082a5ab-6f12-444b-bfe2-ff231fa54da2"/>
+  </children>
+</archimate:ArchimateDiagramModel>

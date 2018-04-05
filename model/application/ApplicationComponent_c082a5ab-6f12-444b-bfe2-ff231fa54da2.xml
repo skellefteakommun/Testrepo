@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TEIS2"
+    id="c082a5ab-6f12-444b-bfe2-ff231fa54da2">
+  <properties
+      key="OS"
+      value="Windows"/>
+</archimate:ApplicationComponent>
